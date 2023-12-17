@@ -1,0 +1,5 @@
+# Files named UNSW_2018_IoT_Botnet_Dataset_1.csv, 
+#             UNSW_2018_IoT_Botnet_Dataset_3.csv, 
+#             UNSW_2018_IoT_Botnet_Dataset_5.csv
+
+*.csv

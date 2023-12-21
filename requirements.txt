@@ -4,3 +4,6 @@ numpy
 matplotlib
 tabulate
 tqdm
+glob
+os
+time

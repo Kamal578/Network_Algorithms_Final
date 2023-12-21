@@ -4,3 +4,4 @@ numpy
 matplotlib
 tabulate
 tqdm
+openpyxl
